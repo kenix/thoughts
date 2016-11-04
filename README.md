@@ -1,4 +1,4 @@
-# thoughts
+#Thoughts
 ##Misc. thoughts on devel
 - logging infrastruture: aspect, logging convention
 - naming convention: events, tasks, messages, artifacts, etc..
