@@ -4,7 +4,7 @@
 - naming convention: events, tasks, messages, artifacts, etc..
 - checkstyle and findbug
 - synchronous and asynchronous
-- loose coupling
+- loose coupling (microservices)
 - messaging infrastructure
 
 ##REST API Guidelines [ref](https://dzone.com/articles/rest-api-basic-guidelines-design-it-right-2)
