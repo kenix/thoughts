@@ -14,3 +14,9 @@
 1. Cacheable
 1. Microservices
 1. Code-on-Demand (optinal)
+
+##Books recommendations
+- Designing Data-Intensive Applications (The Big Ideas Behind Reliable, Scalable, and Maintainable Systems)
+- Introduction to Reliable and Secure Distributed Programming
+- ZooKeeper: Distributed Process Coordination
+- Release it
