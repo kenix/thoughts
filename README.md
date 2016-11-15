@@ -20,3 +20,6 @@
 - Introduction to Reliable and Secure Distributed Programming
 - ZooKeeper: Distributed Process Coordination
 - Release it
+
+##Reading threads
+- [Distributed Lock](https://news.ycombinator.com/item?id=11059738)
